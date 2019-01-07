@@ -1,2 +1,2 @@
-# RSNA-Pneumonia-Classication
+# RSNA-Pneumonia-Classification
 Building Classifier for Pneumonia
